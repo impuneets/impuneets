@@ -1,4 +1,4 @@
-👋 Hello World! I'm Puneet, a 🇮🇳 full-stack web developer passionate about crafting digital experiences. 🌐💻 I'm on a journey to become a master of web development and Data Structures and Algorithms (DSA). Let's embark on this coding adventure together!
+👋 Hello World! I'm Puneet, a full-stack web developer passionate about crafting digital experiences. 🌐💻 I'm on a journey to become a master of web development and Data Structures and Algorithms (DSA). Let's embark on this coding adventure together!
 
 🚀 Here's a glimpse into my tech stack: PHP, JavaScript, Node.js, Express.js, React.js, Electron.js, Leaflet, EJS, HTML, CSS, Bootstrap, jQuery, Firebase, MongoDB, Redis, and the list keeps growing! 📈
 
